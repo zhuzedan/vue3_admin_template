@@ -76,7 +76,7 @@ export default defineConfig({
         emoji: ':rewind:'
       }
     ],
-    useEmoji: true,
+    useEmoji: false,
     emojiAlign: 'center',
     useAI: false,
     aiNumber: 1,
